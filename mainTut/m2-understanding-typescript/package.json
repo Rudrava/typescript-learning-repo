@@ -1,0 +1,13 @@
+{
+  "name": "understanding-typescript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": " lite-server",
+    "tsc": "tsc --watch"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
